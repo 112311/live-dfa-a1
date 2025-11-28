@@ -1,0 +1,7 @@
+{
+  "name": "Live DFA a1 Threshold Monitor",
+  "description": "Real-time aerobic threshold estimation using Heart Rate Variability (DFA alpha 1) from Bluetooth Heart Rate Monitors.",
+  "requestFramePermissions": [
+    "bluetooth"
+  ]
+}
